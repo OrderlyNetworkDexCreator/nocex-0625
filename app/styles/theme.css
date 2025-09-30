@@ -1,10 +1,10 @@
 :root {
-  --oui-font-family: inherit;
+  --oui-font-family: "Manrope", sans-serif;
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 255 200 0;
-  --oui-color-primary-light: 255 200 0;
+  --oui-color-primary: 255 213 0;
+  --oui-color-primary-light: 255 213 0;
   --oui-color-primary-darken: 137 76 209;
   --oui-color-primary-contrast: 255 255 255;
 
@@ -27,10 +27,10 @@
 
   --oui-color-warning: 255 209 70;
   --oui-color-warning-light: 255 229 133;
-  --oui-color-warning-darken: 255 223 107;
+  --oui-color-warning-darken: 255 152 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 26 27 24;
+  --oui-color-fill: 36 32 47;
   --oui-color-fill-active: 40 46 58;
 
   --oui-color-base-1: 93 83 123;
@@ -65,8 +65,8 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 255 200 0;
-  --oui-gradient-brand-end: 255 200 0;
+  --oui-gradient-brand-start: 255 213 0;
+  --oui-gradient-brand-end: 255 213 0;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Poppins', sans-serif !important;
-  font-size: 16px !important;
+    font-family: Manrope, sans-serif !important;
+    font-size: 16px !important;
 }
