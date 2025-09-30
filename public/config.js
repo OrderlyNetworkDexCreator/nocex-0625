@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Leaderboard,Markets,Trading",
-  "VITE_CUSTOM_MENUS": "$FUTURES, https://x.com/cexpump",
+  "VITE_CUSTOM_MENUS": "$futures, https://pump.fun/coin/G2Qx1RzC6HfUu9dRktwTeDi51nnNuVwAWyVciotHwGt1",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/cexpumpsup",
   "VITE_DISCORD_URL": "",
